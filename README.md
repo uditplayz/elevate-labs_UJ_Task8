@@ -6,14 +6,14 @@ This Docker container packages a Flask web application with Python runtime and a
 
 ## Screenshots
 
-### Local Docker Container Running
-![Local Container]()
+<img width="1920" height="1080" alt="localhost" src="https://github.com/user-attachments/assets/12dd01c0-1f92-4e5b-bf17-a0c9b4b36903" />
 
-### Docker Images List  
-![Docker Images]()
+<img width="1920" height="1080" alt="live-on-gcp" src="https://github.com/user-attachments/assets/1d113183-8687-452b-b1c7-eec64837de90" />
 
-### Google Cloud Run Live URL
-![Live Deployment]()
+<img width="1920" height="1080" alt="cloud-run" src="https://github.com/user-attachments/assets/4c8df368-853f-406e-a583-764c02f0fadc" />
+
+<img width="1920" height="1080" alt="docker-images" src="https://github.com/user-attachments/assets/0918a5da-0bb9-4289-957e-15ece33f6d33" />
+
 
 ---
 
